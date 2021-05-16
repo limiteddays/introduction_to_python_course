@@ -1,4 +1,4 @@
-#Python beginner course quiz 1
+# Python beginner course quiz 1
 
 - You need to submit the python file that indicates each questions. 
 - You have 1 hour to finish this quiz
@@ -7,16 +7,16 @@
 
 
 
-#Question 1 (3 pt)
-###what is the difference between pycharm, python, anaconda, appjar and kivy?
+# Question 1 (3 pt)
+### what is the difference between pycharm, python, anaconda, appjar and kivy?
 pycharm is a IDE it is a place where you code, and they help like color each codes .
 
 kivy and appjar is a both python module that helps to build GUI for python.
 
 anaconda is for managing modules for python
 
-#Question 2 (1 pt)
-###write a program that subtracts the age of yours and user?
+# Question 2 (1 pt)
+### write a program that subtracts the age of yours and user?
 
 ```python
 user = int(input("write your age here"))
@@ -27,8 +27,8 @@ print(ans)
 
 ```
 
-#Question 3 (30 pt)
-###write a program that helps people to add their age and name into the container, and find their name from it.
+# Question 3 (30 pt)
+### write a program that helps people to add their age and name into the container, and find their name from it.
 
 
 ```python
@@ -62,8 +62,8 @@ while True:
 ```
 
 
-#Question 4 (3 pt)
-###explain this code
+# Question 4 (3 pt)
+### explain this code
 
 ```python
 
@@ -82,7 +82,7 @@ while i < 100:
 This code will check if the number is prime.
 This code will not return found it, since it is not a prime number. 
 
-#Question 5 (20 pt)
+# Question 5 (20 pt)
 Now you are making a personal banking program.
 The program need to ask user command, and do a job that they requested. 
 
