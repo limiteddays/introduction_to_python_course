@@ -3,7 +3,7 @@
 - You need to submit the python file that indicates each questions.
 - You have 1 hour to finish this quiz
 - No internet or the pre-programmed code allowed.
-- Good Luck :) 
+- Good Luck :)
 
 # Question 1 (3 pt)
 ### what is the difference between pycharm, python, anaconda, appjar and kivy?
@@ -55,8 +55,6 @@ while True:
 
     else:
         print("wrong comment, please try again.")
-
-
 ```
 
 
@@ -127,5 +125,34 @@ while True:
         print("invalid input")
 
 
+
+```
+
+```python
+
+
+
+
+
+
+
+
+
+
+```
+
+
+```java
+int A = [1,2,3,4,5]
+
+for(i = 0, i++, i < A.length){
+  sys.exit.println(A[i] + 1)
+}
+```
+
+```HSC
+
+for count = 1 to A.length:
+  A[count]
 
 ```
